@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Chat</h1>
+    <a href="/">Index</a>
+    <hr>
+    <form>
+        <input type="text" id="username" required name="username" placeholder="username">
+        <input type="text" id="message" required name="message" autocomplete="off" placeholder="your message">
+
+        <button type="submit">Envoyer</button>
+    </form>
+
+    <ul id="messages"></ul>
+    
+    <script src="/socket.io/socket.io.min.js"></script>
+    <script>
+        var socket = io();
+
+        socket.on('chat message', function(value) {
+            console.log(value)
+            let $li = document.querySelector('#messages')
+
+            $li.innerHTML = $li.innerHTML + '<li>' + value.username + '-' + value.message + '</li>'
+        })
+
+        document.querySelector('form').addEventListener('submit', function(e) {
+            e.preventDefault()
+
+            let $username = document.querySelector('#username')
+            let $message = document.querySelector('#message')
+            
+            socket.emit('chat message', {username: $username.value, message: $message.value})
+            
+            let $li = document.querySelector('#messages')
+
+            $li.innerHTML = '<li>' + $username.value + '-' + $message.value + '</li>' + $li.innerHTML
+        
+            $message.value = ''
+        })
+    </script>
+</body>
+</html>

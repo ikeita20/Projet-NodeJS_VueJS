@@ -1,0 +1,596 @@
+{"level":"debug","message":"Database connected successfully"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"debug","message":"[IO] new socket connection zTbnEEobZCMojZhZAAAB"}
+{"level":"info","message":"GET - /chat"}
+{"level":"debug","message":"[IO] new socket connection R5Ogn6nxSPsjv80iAAAD"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"debug","message":"[IO] new socket connection xmLwQZwJDg8Nc2yrAAAB"}
+{"level":"info","message":"POST - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article/2"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"debug","message":"[IO] new socket connection cVFzNgo0LpRoZa4CAAAB"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article/3"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"debug","message":"[IO] new socket connection deP6Svvu8-5K15B3AAAD"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"POST - /api/article"}
+{"level":"info","message":"POST - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article/61ea76fb6effe284752c8fd6"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"info","message":"PUT - /api/article/61ea76fb6effe284752c8fd6"}
+{"level":"info","message":"GET - /api/article/"}
+{"level":"info","message":"GET - /api/article/"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"info","message":"PUT - /api/article/61ea76fb6effe284752c8fd6"}
+{"level":"info","message":"GET - /api/article/"}
+{"level":"info","message":"GET - /api/article/"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"info","message":"DELETE - /api/article/61ea76fb6effe284752c8fd6"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"info","message":"GET - /api/article/"}
+{"level":"info","message":"GET - /api/article/"}
+{"level":"info","message":"DELETE - /api/article/61ea7bf083ba2b4b037cc49f"}
+{"level":"info","message":"GET - /api/article/"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"info","message":"POST - /api/article"}
+{"level":"info","message":"GET - /api/article/"}
+{"level":"info","message":"DELETE - /api/article/61ea7cda24d19a2d5d40bdb5"}
+{"level":"info","message":"GET - /api/article/"}
+{"level":"info","message":"GET - /api/article/"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"info","message":"GET - /api/article/"}
+{"level":"info","message":"DELETE - /api/article/61ea7cda24d19a2d5d40bdb5"}
+{"level":"info","message":"GET - /api/article/"}
+{"level":"info","message":"GET - /api/article/"}
+{"level":"info","message":"GET - /api/article/"}
+{"level":"info","message":"DELETE - /api/article/61ea7cda24d19a2d5d40bdb5"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"info","message":"GET - /api/article/"}
+{"level":"info","message":"GET - /api/article/"}
+{"level":"info","message":"DELETE - /api/article/61ea7cda24d19a2d5d40bdb5"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"info","message":"GET - /api/article/"}
+{"level":"info","message":"GET - /api/article/"}
+{"level":"info","message":"GET - /api/article/"}
+{"level":"info","message":"DELETE - /api/article/61ea7cda24d19a2d5d40bdb5"}
+{"level":"info","message":"POST - /api/article"}
+{"level":"info","message":"GET - /api/article/"}
+{"level":"info","message":"POST - /api/article"}
+{"level":"info","message":"GET - /api/article/"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"info","message":"GET - /api/article/"}
+{"level":"info","message":"GET - /api/article/"}
+{"level":"info","message":"DELETE - /api/article/61ea7f37409d9816bccfc7f4"}
+{"level":"info","message":"GET - /api/article/"}
+{"level":"info","message":"GET - /api/article/"}
+{"level":"info","message":"POST - /api/article"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"info","message":"POST - /api/article"}
+{"level":"info","message":"POST - /api/article"}
+{"level":"info","message":"POST - /api/article"}
+{"level":"info","message":"GET - /api/article/"}
+{"level":"info","message":"PUT - /api/article/61eaae03e3799878d7ed383d"}
+{"level":"info","message":"PUT - /api/article/61eaae03e3799878d7ed383d"}
+{"level":"info","message":"PUT - /api/article/61eaae03e3799878d7ed383d"}
+{"level":"info","message":"GET - /api/article/"}
+{"level":"info","message":"PUT - /api/article/61eaae03e3799878d7ed383d"}
+{"level":"info","message":"GET - /api/article/"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"info","message":"GET - /api/article/"}
+{"level":"info","message":"PUT - /api/article/61eaae03e3799878d7ed383d"}
+{"level":"info","message":"PUT - /api/article/61eaae03e3799878d7ed383d"}
+{"level":"info","message":"PUT - /api/article/61eaae03e3799878d7ed383d"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ebf0a9586dc5bfeff1f425"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ebf10686c2570943457401"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ebf10a86c2570943457403"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ebf180703100c599e8e47f"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ebf1f2fef03f478c65aa67"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ebf1f5fef03f478c65aa69"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ebf2b1fbd09f06779f7183"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ebf3472804fc720b4c6e8b"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ebf34a2804fc720b4c6e8d"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ebf34f2804fc720b4c6e8f"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ebf47d1b2faa4e404f8c2b"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ebf4841b2faa4e404f8c2d"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ebf51dbffe862a224a8f7d"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ebf521bffe862a224a8f7f"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ebf8f562fcccbc10e284e8"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ebfac549b3a23037b8aba2"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ebfada49b3a23037b8aba4"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ebfb6f9cdd7b0ff0c32748"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ebfb729cdd7b0ff0c3274a"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ebfb739cdd7b0ff0c3274c"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ebfba1ba3f51dd7e906cd5"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec03dd2c908ebd03dcea95"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec03e02c908ebd03dcea97"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec04c92c908ebd03dcea99"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec09182c908ebd03dcea9b"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec09242c908ebd03dcea9d"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec09d82c908ebd03dcea9f"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec0a1c2c908ebd03dceaa1"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec0a9d2c908ebd03dceaa3"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec0ac72c908ebd03dceaa5"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec0b2a2c908ebd03dceaa7"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec0b842c908ebd03dceaa9"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec0bc42c908ebd03dceaab"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec0be92c908ebd03dceaad"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec0c412c908ebd03dceaaf"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec0cac2c908ebd03dceab1"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec0d992c908ebd03dceab3"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec0da02c908ebd03dceab5"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec0dc72c908ebd03dceab7"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec0dd22c908ebd03dceab9"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec0e4d2c908ebd03dceabb"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec0e5f2c908ebd03dceabd"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec0eb42c908ebd03dceabf"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec0f6a2c908ebd03dceac1"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec11689173e57def772ecc"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec11ae9173e57def772ece"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec11c99173e57def772ed0"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec12489173e57def772ed2"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec127e9173e57def772ed4"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec12d19173e57def772ed6"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec12ed9173e57def772ed8"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec132c9173e57def772eda"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec13319173e57def772edc"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec137c9173e57def772ede"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec152c9173e57def772ee0"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec15df9173e57def772ee2"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec15f29173e57def772ee4"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec16329173e57def772ee6"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec169d9173e57def772ee8"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec17bb9173e57def772eea"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec186a9173e57def772eec"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec18a19173e57def772eee"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec18e59173e57def772ef0"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec19269173e57def772ef2"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec19679173e57def772ef4"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec19e69173e57def772ef6"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec1a029173e57def772ef8"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec1ab79173e57def772efa"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec1af09173e57def772efc"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec1b059173e57def772efe"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec1b7e9173e57def772f00"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec1d919173e57def772f02"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec1dd09173e57def772f04"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec1e399173e57def772f06"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec1e569173e57def772f08"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec1e7d9173e57def772f0a"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec1f259173e57def772f0c"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec1f539173e57def772f0e"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec1f5b9173e57def772f10"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec1f919173e57def772f12"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec20009173e57def772f14"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec205a09c6fa357f056086"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec220b09c6fa357f056088"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec225a09c6fa357f05608a"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec226509c6fa357f05608c"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec227609c6fa357f05608e"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec228d09c6fa357f056090"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec240c09c6fa357f056092"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec24a209c6fa357f056094"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec251109c6fa357f056096"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec258509c6fa357f056098"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec25a409c6fa357f05609a"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ec262409c6fa357f05609c"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ed21cb09c6fa357f05609e"}
+{"level":"info","message":"GET - /"}
+{"level":"debug","message":"[MONGOOSE] request saved 61ed21dd09c6fa357f0560a0"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"info","message":"POST - /api/article"}
+{"level":"info","message":"POST - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"info","message":"POST - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"POST - /api/article"}
+{"level":"info","message":"POST - /api/article"}
+{"level":"info","message":"POST - /api/article"}
+{"level":"info","message":"POST - /api/article"}
+{"level":"info","message":"POST - /api/article"}
+{"level":"info","message":"POST - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"POST - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"POST - /api/article"}
+{"level":"info","message":"POST - /api/article"}
+{"level":"info","message":"POST - /api/article"}
+{"level":"info","message":"POST - /api/article"}
+{"level":"info","message":"POST - /api/article"}
+{"level":"info","message":"POST - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article/"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"info","message":"GET - /api/article/"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"info","message":"GET - /api/article/"}
+{"level":"info","message":"POST - /api/article"}
+{"level":"info","message":"POST - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"POST - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"info","message":"GET - /"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"debug","message":"Error database"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"debug","message":"Error database"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"debug","message":"Error database"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"debug","message":"Error database"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"debug","message":"Error database"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"debug","message":"Error database"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"debug","message":"Error database"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"debug","message":"Error database"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"debug","message":"Error database"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"debug","message":"Error database"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"debug","message":"Error database"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"debug","message":"Error database"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"debug","message":"Error database"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"debug","message":"Error database"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"debug","message":"Error databaseMongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"debug","message":"Error databaseMongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"debug","message":"Error databaseMongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"debug","message":"Error databaseMongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"debug","message":"Error database"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"debug","message":"Error connexion database"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"debug","message":"Error connexion database"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"debug","message":"Error connexion database"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"debug","message":"Error connexion database"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"debug","message":"Error connexion database"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"debug","message":"Database connected successfully"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"debug","message":"errorMongooseServerSelectionError: connect ECONNREFUSED 0.0.0.0:27017"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"debug","message":"errorMongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"debug","message":"errorMongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"POST - /api/article"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"info","message":"GET - /"}
+{"level":"info","message":"GET - /"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"debug","message":"errorMongooseServerSelectionError: connection timed out"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"debug","message":"errorMongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"debug","message":"errorMongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"POST - /api/article"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"info","message":"[HTTP] Server start on port 5000"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"GET - /api/article"}
+{"level":"info","message":"POST - /api/article"}
